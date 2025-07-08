@@ -1,2 +1,4 @@
 #!/usr/bin/env bash
+
+# List only listening TCP and UDP sockets with their PID and program name
 ss -tulnp | grep LISTEN

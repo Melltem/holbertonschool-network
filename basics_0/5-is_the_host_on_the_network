@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-
 # Check if exactly one argument is given
 if [ $# -ne 1 ]; then
     # If not, show how to use the script
